@@ -1,6 +1,6 @@
-I designed a expense tracker small application via implementing useReducer State and Context API concepts in React.
+I designed a expense tracker small application by implementing useReducer State and Context API concepts in React.
 
-----------------------------
+---------------------------------
 Live Link:
-unwritten-wax.surge.sh
-----------------------------
+https://unwritten-wax.surge.sh/
+--------------------------------
