@@ -20,17 +20,12 @@ A small application designed to help users manage their finances effectively. Bu
 
 ### Installation
 
-1. Clone the project:
-
-```bash
-git clone https://github.com/khizraghaffarkk/Expense-Tracker-App.git
-
 1. **Clone the project repository**:
    ```bash
-   git clone https://github.com/khizraghaffarkk/Portfolio.git
+   git clone https://github.com/khizraghaffarkk/Expense-Tracker-App.git
 2. **Navigate to the project directory**:
    ```bash
-   cd your-portfolio
+   cd expense-tracker
 3. **Install Dependencies**:
    ```bash
    npm install
