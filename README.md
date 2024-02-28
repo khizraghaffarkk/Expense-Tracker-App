@@ -41,4 +41,3 @@ Explore it Live: https://unwritten-wax.surge.sh/
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://khizra_ghaffar_portfolio.surge.sh/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/khizra-ghaffar-253512221/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge)](https://twitter.com/your_twitter_username)
