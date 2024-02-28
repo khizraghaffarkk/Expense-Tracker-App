@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A small application designed to help users manage their finances effectively. Built using React with useReducer State and Context API concepts.
+A small application designed to help users manage their finances effectively. Built using React with `useReducer` State and `Context API` concepts.
 
 ## Features
 
@@ -33,5 +33,5 @@ A small application designed to help users manage their finances effectively. Bu
    ```bash
    npm start
 
-<span style="color:#6e5494">Live Link</span>
+```bash
 Explore it Live: https://unwritten-wax.surge.sh/
