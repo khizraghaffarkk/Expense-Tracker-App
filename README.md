@@ -16,6 +16,15 @@ A small application designed to help users manage their finances effectively. Bu
 - CSS
 - Visual Studio Code
 
+## Tech Stack
+
+- React ![React Logo](https://example.com/react-logo.png)
+- JavaScript ![JavaScript Logo](https://example.com/javascript-logo.png)
+- HTML ![HTML Logo](https://example.com/html-logo.png)
+- CSS ![CSS Logo](https://example.com/css-logo.png)
+- Visual Studio Code ![VSCode Logo](https://example.com/vscode-logo.png)
+
+
 ## Getting Started
 
 ### Installation
