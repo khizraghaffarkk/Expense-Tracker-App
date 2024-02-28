@@ -1,7 +1,5 @@
 # Expense Tracker
 
-![Expense Tracker Demo](demo.gif)
-
 A small application designed to help users manage their finances effectively. Built using React with useReducer State and Context API concepts.
 
 ## Features
@@ -26,6 +24,19 @@ A small application designed to help users manage their finances effectively. Bu
 
 ```bash
 git clone https://github.com/khizraghaffarkk/Expense-Tracker-App.git
+
+1. **Clone the project repository**:
+   ```bash
+   git clone https://github.com/khizraghaffarkk/Portfolio.git
+2. **Navigate to the project directory**:
+   ```bash
+   cd your-portfolio
+3. **Install Dependencies**:
+   ```bash
+   npm install
+4. **Start the Development Server**:
+   ```bash
+   npm start
 
 <span style="color:#6e5494">Live Link</span>
 Explore it Live: https://unwritten-wax.surge.sh/
