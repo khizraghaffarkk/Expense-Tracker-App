@@ -41,8 +41,14 @@ Explore it Live: https://unwritten-wax.surge.sh/
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://khizra_ghaffar_portfolio.surge.sh/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/khizra-ghaffar-253512221/)
-[Portfolio ✨](https://khizra_ghaffar_portfolio.surge.sh/)
-[LinkedIn 💼](https://www.linkedin.com/in/khizra-ghaffar-253512221/)
-[Twitter 🐦](https://twitter.com/your_twitter_username)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
