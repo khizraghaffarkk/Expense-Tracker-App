@@ -16,15 +16,6 @@ A small application designed to help users manage their finances effectively. Bu
 - CSS
 - Visual Studio Code
 
-## Tech Stack
-
-- React ![React Logo](https://example.com/react-logo.png)
-- JavaScript ![JavaScript Logo](https://example.com/javascript-logo.png)
-- HTML ![HTML Logo](https://example.com/html-logo.png)
-- CSS ![CSS Logo](https://example.com/css-logo.png)
-- Visual Studio Code ![VSCode Logo](https://example.com/vscode-logo.png)
-
-
 ## Getting Started
 
 ### Installation
@@ -43,21 +34,4 @@ A small application designed to help users manage their finances effectively. Bu
    npm start
 
 ```bash
-Explore it Live: https://unwritten-wax.surge.sh/
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://khizra_ghaffar_portfolio.surge.sh/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/khizra-ghaffar-253512221/)
-
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
+**Explore it Live:** https://unwritten-wax.surge.sh/
