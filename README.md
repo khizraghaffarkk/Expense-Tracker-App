@@ -33,5 +33,4 @@ A small application designed to help users manage their finances effectively. Bu
    ```bash
    npm start
 
-```bash
 **Explore it Live:** https://unwritten-wax.surge.sh/
